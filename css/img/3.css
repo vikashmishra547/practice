@@ -1,0 +1,19 @@
+.navbar{
+background-color: red;
+border-radius:20px ;
+}
+.navbar li{
+float:right;
+list-style:none ;
+margin:13px 20px;
+}
+.navbar li a{
+padding:13px 3px;
+text-decoration:none ;
+color:white;
+}
+h1{
+ color:blue;
+padding: 3px; 
+
+}
